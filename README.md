@@ -1,2 +1,2 @@
-# Led-Control-with-Voice-Command
+# Led Control with Voice Command
 LED control with voice command with Raspberry Pi
