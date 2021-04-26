@@ -43,6 +43,7 @@ def led_off(pin): #led off function
     time.sleep(0.5)
     
 while True: #infinity loop
+    
      recog = mic_text_doc().lower() 
      text=recog
      
